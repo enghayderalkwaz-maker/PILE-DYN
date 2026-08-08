@@ -1,6 +1,6 @@
-Version=1.0.2
+Version=1.0.5
 DownloadURL=https://github.com/enghayderalkwaz-maker/PILE-DYN/releases/latest/download/Setup_PILE-DYN.exe
 ReleaseDate=2026-08-08
-UpdateSize=Not specified
+UpdateSize=179.32 MB
 UpdateType=Recommended
-ReleaseNotes=PILE-DYN is using the latest available version.
+ReleaseNotes=Improved startup performance.\nAdded real startup progress.\nImproved update checking.\nAdded the external Update Manager.\nGeneral stability improvements.
