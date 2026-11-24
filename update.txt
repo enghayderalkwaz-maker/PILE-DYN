@@ -1,5 +1,5 @@
 Version=1.0.7
-DownloadURL=https://github.com/enghayderalkwaz-maker/PILE-DYN/releases/download/v1.0.7/Setup_PILE-DYN_v1.0.7.exe
+DownloadURL=https://github.com/enghayderalkwaz-maker/PILE-DYN/releases/download/v1.0.7/Setup_PILE-DYN.exe
 ReleaseDate=2026-11-24
 UpdateSize=298M
 UpdateType=Recommended
