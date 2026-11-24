@@ -1,6 +1,6 @@
-Version=1.0.6
-DownloadURL=https://github.com/enghayderalkwaz-maker/PILE-DYN/releases/download/v1.0.6/Setup_PILE-DYN.exe
-ReleaseDate=12/10/2026
-UpdateSize=179 MB
+Version=1.0.7
+DownloadURL=https://github.com/enghayderalkwaz-maker/PILE-DYN/releases/download/v1.0.7/Setup_PILE-DYN_v1.0.7.exe
+ReleaseDate=2026-11-24
+UpdateSize=298M
 UpdateType=Recommended
-ReleaseNotes=Improved pile batter explanation in reports. Added detailed energy effect of pile inclination. Improved PDA correction report details. Bug fixes and stability improvements.
+ReleaseNotes=Added a new reference and improved reports and stability.
